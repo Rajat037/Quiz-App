@@ -1,0 +1,118 @@
+.container{
+    width: 640px;
+    margin:auto;
+    margin-top: 150px;
+    background: white;
+    color: #262626;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 40px 50px;
+}
+.container hr{
+    height: 2px;
+    border: none;
+    background: #707070;
+}
+.container ul li{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    padding-left: 15px;
+    border: 1px solid #686868;  
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    cursor: pointer; 
+}
+.container button{
+    margin: auto;
+    width: 250px;
+    background: #553f9a;
+    color:#fff;
+    font-size: 25px;
+    font-weight: 500px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.container .index{
+    margin: auto;
+    font-size: 18px;
+}
+li {
+  list-style: none;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+
+
+li.selected-click {
+  background-color: #87ceeb;
+  color: white;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Result screen */
+.result-circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid #4caf50;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  margin: 20px auto;
+  color: #4caf50;
+  font-weight: bold;
+
+  /* Animation */
+  animation: pulse 1s ease-out;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(0.5);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.result-circle span {
+  position: absolute;       /* Put text on top */
+  color: black;             /* Make text visible */
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between; /* left and right corners */
+  margin: 20px 0;
+}
+
+.buttons button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Optional: disabled button style */
+.buttons button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+

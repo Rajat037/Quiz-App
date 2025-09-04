@@ -1,0 +1,72 @@
+[
+  {
+    "category": "Entertainment: Music",
+    "difficulty": "medium",
+    "question": "Who wrote the musical composition 'Rhapsody In Blue'?",
+    "options": ["Irving Berlin", "Duke Ellington", "Johnny Mandel", "George Gershwin"],
+    "answer": "George Gershwin"
+  },
+  {
+    "category": "Science & Nature",
+    "difficulty": "hard",
+    "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+    "options": ["Oxygen", "Carbon", "Iron", "Boron"],
+    "answer": "Boron"
+  },
+  {
+    "category": "Entertainment: Music",
+    "difficulty": "easy",
+    "question": "Which punk rock band released hit songs such as 'Californication', 'Can't Stop' and 'Under the Bridge'?",
+    "options": ["Green Day", "Linkin Park", "Foo Fighters", "Red Hot Chili Peppers"],
+    "answer": "Red Hot Chili Peppers"
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "difficulty": "easy",
+    "question": "What was the release date of 'Grand Theft Auto IV'?",
+    "options": ["May 21, 2009", "June 22, 2010", "July 28, 2008", "April 29, 2008"],
+    "answer": "April 29, 2008"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "This Canadian television sportscaster is known for his 'Hockey Night in Canada' role, a commentary show during hockey games.",
+    "options": ["Don McKellar", "Don Taylor", "Donald Sutherland", "Don Cherry"],
+    "answer": "Don Cherry"
+  },
+  {
+    "category": "Entertainment: Music",
+    "difficulty": "hard",
+    "question": "Which Elton John hit starts with the line 'When are you gonna come down'?",
+    "options": ["Rocket Man", "Bennie and the Jets", "Crocodile Rock", "Goodbye Yellow Brick Road"],
+    "answer": "Goodbye Yellow Brick Road"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which NBA player won Most Valuable Player for the 1999–2000 season?",
+    "options": ["Allen Iverson", "Kobe Bryant", "Paul Pierce", "Shaquille O’Neal"],
+    "answer": "Shaquille O’Neal"
+  },
+  {
+    "category": "Entertainment: Books",
+    "difficulty": "hard",
+    "question": "The novel 'Jane Eyre' was written by what author?",
+    "options": ["Emily Brontë", "Jane Austen", "Louisa May Alcott", "Charlotte Brontë"],
+    "answer": "Charlotte Brontë"
+  },
+  {
+    "category": "Entertainment: Film",
+    "difficulty": "medium",
+    "question": "What were the Chilled Monkey Brains made from during 'Indiana Jones and the Temple of Doom'?",
+    "options": ["Strawberry Ice Cream", "Cherry Yogurt", "Raspberry Sorbet", "Custard and Raspberry Sauce"],
+    "answer": "Custard and Raspberry Sauce"
+  },
+  {
+    "category": "Entertainment: Music",
+    "difficulty": "medium",
+    "question": "What is the name of French electronic music producer Madeon's 2015 debut studio album?",
+    "options": ["The City", "Icarus", "Pop Culture", "Adventure"],
+    "answer": "Adventure"
+  }
+]
